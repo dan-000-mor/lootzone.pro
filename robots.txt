@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://lootzone.pro/sitemapru.txt
+Sitemap: https://lootzone.pro/sitemapru2.txt
